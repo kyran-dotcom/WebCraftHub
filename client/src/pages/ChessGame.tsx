@@ -67,7 +67,7 @@ const ChessGame = () => {
   return (
     <>
       <Helmet>
-        <title>Chess Game | GameHub</title>
+        <title>Chess Game | maths.k.com</title>
       </Helmet>
       
       <div className="max-w-5xl mx-auto">

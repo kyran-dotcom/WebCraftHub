@@ -108,7 +108,7 @@ const IncrementalGame = () => {
   return (
     <>
       <Helmet>
-        <title>Clicker Empire | GameHub</title>
+        <title>Clicker Empire | maths.k.com</title>
       </Helmet>
       
       <div className="max-w-5xl mx-auto">

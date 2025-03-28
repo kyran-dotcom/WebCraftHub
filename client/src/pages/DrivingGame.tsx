@@ -89,7 +89,7 @@ const DrivingGame = () => {
   return (
     <>
       <Helmet>
-        <title>Driving Game | GameHub</title>
+        <title>Driving Game | maths.k.com</title>
       </Helmet>
       
       <div className="flex flex-col h-[calc(100vh-8rem)]">
