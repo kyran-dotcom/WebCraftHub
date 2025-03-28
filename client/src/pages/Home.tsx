@@ -13,10 +13,10 @@ const Home = () => {
       <section>
         <div className="py-12 text-center">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-            Welcome to GameHub
+            Welcome to maths.k.com
           </h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-            Play fun online games including incremental clicker games, chess, and driving games.
+            Play fun online math games including incremental clicker games, chess, and driving games.
             Challenge yourself, track your progress, and have fun!
           </p>
         </div>

@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
           <GamepadIcon className="h-6 w-6" />
-          <span>GameHub</span>
+          <span>maths.k.com</span>
         </Link>
         
         <nav className="hidden md:flex items-center gap-6">
